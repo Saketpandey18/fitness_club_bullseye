@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Saketpandey18/fitness_club_bullseye.git/static/css/main.d6107bd0.css",
+    "main.js": "/Saketpandey18/fitness_club_bullseye.git/static/js/main.6f8c5e70.js",
+    "static/js/787.eccddbaa.chunk.js": "/Saketpandey18/fitness_club_bullseye.git/static/js/787.eccddbaa.chunk.js",
+    "static/media/background.jpg": "/Saketpandey18/fitness_club_bullseye.git/static/media/background.e5c96d5c5f70b038f1f8.jpg",
+    "index.html": "/Saketpandey18/fitness_club_bullseye.git/index.html",
+    "main.d6107bd0.css.map": "/Saketpandey18/fitness_club_bullseye.git/static/css/main.d6107bd0.css.map",
+    "main.6f8c5e70.js.map": "/Saketpandey18/fitness_club_bullseye.git/static/js/main.6f8c5e70.js.map",
+    "787.eccddbaa.chunk.js.map": "/Saketpandey18/fitness_club_bullseye.git/static/js/787.eccddbaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6107bd0.css",
+    "static/js/main.6f8c5e70.js"
+  ]
+}
