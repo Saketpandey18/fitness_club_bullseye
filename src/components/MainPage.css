@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding: 0;
+    background: linear-gradient(rgba(0, 0, 0, 0.1),
+    rgba(0, 0, 0, 0.1)), url('../resources/background.jpg');
+    
+  }
+  .inputmargintop{
+    margin-top:90px;
+  }
+  .inputmarginbottom{
+    margin-bottom:50px;
+  }
+  input{
+    height:40px;
+    width: 300px;
+    margin: 10px;
+    background-color: white;
+    padding-left: 10px;
+  }
+  .Title{
+    margin-top: 100px;
+  }
+  .Center_main{
+    margin: 10px auto 2% 35%;
+    width: 450px;
+    padding: 10px;
+    height: 500px;
+    background-color: azure;
+  }
+  .InnerDiv{
+    margin: 10px;
+    height: 390px;
+    width: 420px;
+    background-color: azure  ;
+  }
+  
+  button{
+    height: 50px;
+    width: 200px;
+    background-color: blue;
+    margin: 20px;
+  }
